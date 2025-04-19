@@ -85,4 +85,4 @@ Upon successful login, the terminal menu provides options such as:
 
 ## 📄 License
 
-This project was submitted as a final-year project at SRM University–AP. It is intended for educational purposes and personal use.
+This project was submitted as a project at SRM University–AP. It is intended for educational purposes and personal use.
