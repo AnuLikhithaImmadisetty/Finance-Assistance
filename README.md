@@ -2,8 +2,6 @@
 
 A desktop-based portfolio management tool designed to help investors monitor and analyze their stock investments using Python. This project focuses on predicting stock prices and managing a user's portfolio efficiently, featuring a range of modules like Matplotlib, Pandas, and MplFinance for data visualization and analysis.
 
----
-
 ## 📌 Features
 
 - 🔐 Secure login with user ID and password  
@@ -12,8 +10,6 @@ A desktop-based portfolio management tool designed to help investors monitor and
 - 📊 Candlestick chart visualization of stocks using MplFinance  
 - 🧠 Stock price prediction logic (using Yahoo Finance)  
 - 🛠 Easily modify credentials  
-
----
 
 ## 🛠️ Tech Stack
 
@@ -25,8 +21,6 @@ A desktop-based portfolio management tool designed to help investors monitor and
   - `pickle`  
   - `sys`, `datetime`  
 - **Platform**: Cross-platform (Windows, macOS, Linux)
-
----
 
 ## ⚙️ Functional Modules
 
@@ -41,8 +35,6 @@ A desktop-based portfolio management tool designed to help investors monitor and
 - `change_credentials()` – Changes user password  
 - `change_id()` – Changes user ID  
 
----
-
 ## 📂 Project Structure
 
 ```
@@ -54,8 +46,6 @@ A desktop-based portfolio management tool designed to help investors monitor and
 ├── Financial Assistance - PPT # PPT 
 └── README.md                    # This file
 ```
-
----
 
 ## 💻 How to Run
 
@@ -74,8 +64,6 @@ pip install matplotlib mplfinance pandas_datareader
 python financial_assistance.py
 ```
 
----
-
 ## 📸 Sample Output
 
 Upon successful login, the terminal menu provides options such as:
@@ -87,8 +75,6 @@ Upon successful login, the terminal menu provides options such as:
 
 > Example stocks used: AAPL (Apple), TSLA (Tesla), GS (Goldman Sachs)
 
----
-
 ## 🧪 Future Enhancements
 
 - Add Graphical User Interface (GUI) with Tkinter or PyQt  
@@ -96,26 +82,6 @@ Upon successful login, the terminal menu provides options such as:
 - Use databases instead of `.pkl` for storage  
 - Implement authentication and encryption for security  
 - Integrate with real-time stock APIs for better performance  
-
----
-
-## 👨‍💻 Contributors
-
-- [Anu Likhitha Immadisetty](https://github.com/AnuLikhithaImmadisetty) – Analysis  
-- [Shubham Pandey](https://github.com/shubhamPandey31201) – Experimental Work  
-- [Nandini Gogineni](https://github.com/NandiniGogineni) – Idea  
-- Arshad Shaik – Data Simulation  
-
-Guided by **Dr. Mohammad Miskeen Ali**, SRM University–AP
-
----
-
-## 📚 References
-
-- [NeuralNine YouTube Channel](https://www.youtube.com/@NeuralNine)  
-- [Stock Visualization Tutorial](https://www.youtube.com/watch?v=Y47kjQvffPo)
-
----
 
 ## 📄 License
 
