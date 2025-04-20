@@ -1,4 +1,4 @@
-# 💸 Finance Assistance
+# 💸 Financial Assistance
 
 A desktop-based portfolio management tool designed to help investors monitor and analyze their stock investments using Python. This project focuses on predicting stock prices and managing a user's portfolio efficiently, featuring a range of modules like Matplotlib, Pandas, and MplFinance for data visualization and analysis.
 
@@ -42,7 +42,7 @@ A desktop-based portfolio management tool designed to help investors monitor and
 ├── credential.pkl                # Stores login credentials
 ├── portfolio.pkl                 # Stores portfolio data
 ├── financial_assistance.py      # Main source code
-├── FINANCE ASSISTANCE Report.pdf # Documentation b
+├── FINANCE ASSISTANCE Report.pdf # Documentation 
 ├── Financial Assistance - PPT # PPT 
 └── README.md                    # This file
 ```
@@ -51,7 +51,7 @@ A desktop-based portfolio management tool designed to help investors monitor and
 
 1. **Clone the repository**
 ```
-git clone https://github.com/AnuLikhithaImmadisetty/Finance-Assistance.git
+git clone https://github.com/AnuLikhithaImmadisetty/Financial-Assistance.git
 ```
 
 2. **Install required packages**
